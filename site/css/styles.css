@@ -7,7 +7,7 @@ body {
 
 /** HEADER **/
 #header-nav {
-  background-color: #808000;
+  background-color: #F0E68C;
   border-radius: 0;
   border: 0;
 }
@@ -233,7 +233,7 @@ h3.menu-item-title {
 /********** Large devices only **********/
 @media (min-width: 1200px) {
   .container .inside {
-    background: url('../images/inside-image2.jpg') no-repeat;
+    background: url('../images/inside-image.jpg') no-repeat;
     height: 675px;
   }
 }
@@ -242,7 +242,7 @@ h3.menu-item-title {
 @media (min-width: 992px) and (max-width: 1199px) {
   /* Header */
   #logo-img {
-    background: url('../images/restaurant-logo_medium.png') no-repeat;
+    background: url('../images/inside-image.jpg') no-repeat;
     width: 100px;
     height: 100px;
     margin: 5px 5px 5px 0;
